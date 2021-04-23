@@ -1,4 +1,6 @@
+print("Discription: This script will convert celsius temperature to Kalvin and Farenheit")
 print("Enter temperature in Celsius")
+
 
 celsius_value = input()
 celsius_value =float(celsius_value)
